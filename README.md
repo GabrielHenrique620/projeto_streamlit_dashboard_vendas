@@ -89,17 +89,10 @@ Este projeto destaca minha habilidade em criar soluções de análise de dados u
 
 ---
 
-### **Página: Upload de Dados Brutos**
+### **Página: Download de Dados Brutos**
 - Permite ao usuário realizar o upload de arquivos para análise personalizada.  
 
-![Upload de Dados](https://github.com/user-attachments/assets/34df76cb-b1d9-4ad0-91cb-f17001f2c1fe)
-
----
-
-## 🔗 **Como acessar o projeto**
-1. Acesse o projeto via este link:  
-   [Dashboard de Vendas](https://dashboardvendas-fex5yuwnx7z9sv6tnztu9g.streamlit.app/dados_brutos)  
-2. Explore o dashboard interativo e descubra insights valiosos!  
+![Download de Dados](https://github.com/user-attachments/assets/34df76cb-b1d9-4ad0-91cb-f17001f2c1fe)
 
 ---
 
